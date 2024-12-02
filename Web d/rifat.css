@@ -1,0 +1,16 @@
+ul{
+    list-style-type: lower-roman;
+    
+    
+}
+
+
+table,th,td{
+    border: 3px solid green;
+}
+table{
+    width: 100%;
+}
+th, td{
+    color: green;
+}
